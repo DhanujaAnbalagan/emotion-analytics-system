@@ -20,15 +20,7 @@ This project focuses on **system integration, real-time performance handling, an
 
 ## 🧠 System Architecture
 
-Camera Feed
-↓
-Face Detection + Emotion Inference (DeepFace)
-↓
-Emotion Smoothing & Dominance Tracking
-↓
-Real-Time Visualization
-↓
-CSV Analytics Logging
+<img width="562" height="751" alt="image" src="https://github.com/user-attachments/assets/c258e214-bbba-4189-99a4-84c1b904a2b6" />
 
 
 ---
@@ -36,16 +28,8 @@ CSV Analytics Logging
 ## 🗂️ Project Structure
 
 
-emotion-analytics-system/
-│
-├── camera.py # Webcam capture handling
-├── emotion_engine.py # DeepFace emotion inference logic
-├── tracker.py # Emotion smoothing & dominance logic
-├── logger.py # CSV-based analytics logging
-├── dashboard.py # Visualization utilities
-├── main.py # Application entry point
-├── requirements.txt
-├── README.md
+<img width="636" height="305" alt="image" src="https://github.com/user-attachments/assets/ea38f3a6-5870-441d-bbcc-19c8aad980a9" />
+
 
 
 ---
