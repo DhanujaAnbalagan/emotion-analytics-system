@@ -53,7 +53,7 @@ pip install tf-keras
 python main.py
 
 
-Press Q to exit the application.
+
 ---
 
 ## 📊 Output
@@ -63,9 +63,10 @@ Automatically generated emotion_log.csv containing:
 Timestamp
 Emotion probabilities
 Dominant emotion per frame window
+
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 OpenCV
@@ -77,7 +78,7 @@ Pandas
 ---
 
 
-##🚧 Future Enhancements
+## 🚧 Future Enhancements
 
 Multi-face emotion tracking
 
@@ -89,3 +90,4 @@ Configurable logging controls
 
 API-based emotion analytics service
 
+---
