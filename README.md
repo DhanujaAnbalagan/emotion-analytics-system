@@ -54,16 +54,18 @@ python main.py
 
 
 Press Q to exit the application.
+---
 
-📊 Output
+## 📊 Output
 
 Live emotion labels and confidence bars on webcam feed
 Automatically generated emotion_log.csv containing:
 Timestamp
 Emotion probabilities
 Dominant emotion per frame window
+---
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Python
 OpenCV
@@ -72,7 +74,10 @@ TensorFlow
 NumPy
 Pandas
 
-🚧 Future Enhancements
+---
+
+
+##🚧 Future Enhancements
 
 Multi-face emotion tracking
 
